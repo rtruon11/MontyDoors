@@ -1,0 +1,2 @@
+# MontyDoors
+o A Python program which places three yellow doors leaving the users to selects a door. The program then randomly assigns a goat picture to one of the doors. Users are then given a dilemma of switching their selected door to increase the probability of selecting a car behind one of the non-chosen doors. After selecting, the program reveals 2 goat and 1 car behind the individual three doors. The game loops and if continued, a counter shows there is a 2/3 higher success rate of winning the car by switching when prompted.
